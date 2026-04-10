@@ -1,16 +1,14 @@
-## Hi there 👋
+# Cauã Marchiotto
 
-<!--
-**Marchiott0/Marchiott0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Estudante de Engenharia da computação, tenho 20 anos, apaixonado por tecnologia e por desenvolver soluções — seja estruturando sistemas no backend, extraindo inteligência de dados ou montando projetos físicos.
 
-Here are some ideas to get you started:
+### 🚀 Projetos que já realizei:
+* **Desenvolvimento Backend (Java):** Forte aplicação de Programação Orientada a Objetos e estruturas de dados dinâmicas na construção de sistemas de gerenciamento (clientes, produtos e logística de pedidos).
+* **Análise de Dados (Python):** Exploração, limpeza e visualização de dados utilizando Pandas, Matplotlib, Seaborn e SciPy. Tenho projetos de análise exploratória, como estudos de mercado de games e simulações estatísticas.
+* **Projetos de Hardware & Automação:** Desenvolvimento de soluções de engenharia com **Arduino**, com experiência em protótipos envolvendo sensores de carga (HX711) e automação de hardware.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas:
+> 💻 Java | 🐍 Python (Pandas, Seaborn) | ⚙️ Arduino | 🔧 C/C++ 
+
+---
+📫 **Como me encontrar:** [www.linkedin.com/in/marchiottocaua] | [caua.marchiotto@gmail.com]
